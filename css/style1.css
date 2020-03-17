@@ -1,0 +1,30 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-family: sans-serif;
+  
+}
+
+h2 {
+  color:white;
+  font-style: italic;
+  font-weight: 100;
+  text-align: left;
+  font-family: sans-serif;    
+}
+
+p {
+  color: white;
+  font-family: sans-serif;
+}
+
+ul {
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: black;
+}
